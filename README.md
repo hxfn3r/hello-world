@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi guys,
+
+I´m Hxfn3r, and on my way to learn some programming. 
